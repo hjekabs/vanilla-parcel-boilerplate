@@ -9,8 +9,7 @@
     "clean": "rimraf ./development && rimraf -rf ./.cache"
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/bradtraversy/vanilla-parcel-boilerplate.git"
+    "type": "git"
   },
   "keywords": [
     "parcel"

@@ -1,8 +1,8 @@
 import './scss/app.scss';
 import App from './App'
 
-const app = async () => {
-  document.getElementById('app').appendChild(await App())
+const app = () => {
+  document.getElementById('app').appendChild(App())
 }
 // Load app
 app()
